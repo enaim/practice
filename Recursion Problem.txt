@@ -1,0 +1,35 @@
+Recursion/Backtrack/DP Problem.
+
+70. Climbing Stairs
+509. Fibonacci Number
+746. Min Cost Climbing Stairs
+1137. N-th Tribonacci Number
+
+77. Combinations
+
+39. Combination Sum
+40. Combination Sum II	
+216. Combination Sum III
+377. Combination Sum IV
+
+46. Permutations
+47. Permutations II
+
+62. Unique Paths
+63. Unique Paths II
+
+78. Subsets
+90. Subsets II
+
+322. Coin Change
+91. Decode Ways
+139. Word Break
+678. Valid Parenthesis String
+1593. Split a String Into the Max Number of Unique Substrings
+552. Student Attendance Record II
+
+
+
+
+UVa - 100, 991, 815, 674, 562, 357, 11795, 11762, 11643, 11617, 11517, 11420, 11003
+LightOJ - 1004, 1005, 1047, 1122, 1231, 1326
